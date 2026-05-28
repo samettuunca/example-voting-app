@@ -33,3 +33,6 @@ docker compose up -d
 ## Kullandığım Teknolojiler
 
 Docker, Kubernetes, GitHub Actions, Terraform, Azure
+
+
+<img width="1920" height="992" alt="monitoring" src="https://github.com/user-attachments/assets/5ed81d3a-8a1c-417f-b487-d4859d884919" />
